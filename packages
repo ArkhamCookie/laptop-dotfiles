@@ -1,3 +1,6 @@
+# package to install/set to manual install
+# comment out using '#' to remove one
+
 bash
 bat
 cargo
