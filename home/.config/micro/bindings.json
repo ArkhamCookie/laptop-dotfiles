@@ -1,0 +1,18 @@
+{
+    "Alt-d": "DeleteLine",
+
+    "Tab": "Autocomplete|IndentSelection|IndentLine",
+    "Ctrl-c": "Copy|CopyLine",
+
+    "Ctrl-g": "JumpLine",
+
+    "Ctrl-y": "Redo",
+    "Ctrl-z": "Undo",
+
+    "Alt-/": "lua:comment.comment",
+    "CtrlUnderscore": "lua:comment.comment",
+
+    "Ctrl-s": "Save",
+    "Alt-q": "QuitAll",
+    "Alt-x": "Save,Quit"
+}

@@ -1,0 +1,22 @@
+{
+    "basename": true,
+    "ft:json": {
+        "tabsize": 2,
+        "tabstospaces": true
+    },
+    "ft:yaml": {
+        "tabsize": 2,
+        "tabstospaces": true
+    },
+    "ft:yml": {
+        "tabsize": 2,
+        "tabstospaces": true
+    },
+    "keepautoindent": true,
+    "savecursor": true,
+    "saveundo": true,
+    "softwrap": true,
+    "statusformatl": "| $(filename) ($(line),$(col)) | ",
+    "statusformatr": " | $(opt:filetype),$(opt:encoding) |",
+    "tabmovement": true
+}
