@@ -1,6 +1,7 @@
 # package to install/set to manual install
 # comment out using '#' to remove one
 
+alacritty
 bash
 bat
 cargo
@@ -8,6 +9,7 @@ catimg
 dash
 editorconfig
 exa
+firefox
 git
 grep
 jq
