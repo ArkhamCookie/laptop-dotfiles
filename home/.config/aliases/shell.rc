@@ -1,0 +1,14 @@
+#!/bin/sh
+
+## Styling/Viewing
+alias bat='batcat --style=snip,rule,numbers,changes'
+alias grep='grep --color'
+alias ls='ls --classify --color=auto'
+alias la='ls --classify --color=auto --almost-all'
+alias exa='exa --color=auto --no-permissions --octal-permissions --no-time --no-filesize --binary --header'
+
+###
+
+alias mkdir='mkdir -p'
+
+alias shellcheck='shellcheck --external-sources'
