@@ -6,6 +6,7 @@ bash
 bat
 cargo
 catimg
+curl
 dash
 editorconfig
 exa
